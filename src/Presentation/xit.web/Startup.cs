@@ -19,12 +19,14 @@ namespace xit.web
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
+        // 运行时调用此方法. 使用此方法以使服务添加到容器中.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        // 运行时调用此方法. 使用此方法注册http请求管道.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
