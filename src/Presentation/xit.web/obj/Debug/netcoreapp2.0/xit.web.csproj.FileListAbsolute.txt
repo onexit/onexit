@@ -1,0 +1,11 @@
+G:\项目\onexit\src\Presentation\xit.web\bin\Debug\netcoreapp2.0\xit.web.deps.json
+G:\项目\onexit\src\Presentation\xit.web\bin\Debug\netcoreapp2.0\xit.web.runtimeconfig.json
+G:\项目\onexit\src\Presentation\xit.web\bin\Debug\netcoreapp2.0\xit.web.runtimeconfig.dev.json
+G:\项目\onexit\src\Presentation\xit.web\bin\Debug\netcoreapp2.0\xit.web.dll
+G:\项目\onexit\src\Presentation\xit.web\bin\Debug\netcoreapp2.0\xit.web.pdb
+G:\项目\onexit\src\Presentation\xit.web\obj\Debug\netcoreapp2.0\xit.web.csprojResolveAssemblyReference.cache
+G:\项目\onexit\src\Presentation\xit.web\obj\Debug\netcoreapp2.0\xit.web.csproj.CoreCompileInputs.cache
+G:\项目\onexit\src\Presentation\xit.web\obj\Debug\netcoreapp2.0\xit.web.AssemblyInfoInputs.cache
+G:\项目\onexit\src\Presentation\xit.web\obj\Debug\netcoreapp2.0\xit.web.AssemblyInfo.cs
+G:\项目\onexit\src\Presentation\xit.web\obj\Debug\netcoreapp2.0\xit.web.dll
+G:\项目\onexit\src\Presentation\xit.web\obj\Debug\netcoreapp2.0\xit.web.pdb
